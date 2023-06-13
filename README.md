@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratiksha
 - 👀 I’m interested in Full stack devlopment.
-- I am having knowledge of .net framewrk , SQL, javascript , Java, HTML, CSS
+- I am having knowledge of .net framewrk, .net core , SQL, javascript , Java, HTML, CSS
 - 🌱 I’m currently learning React and node
 - 📫 How to reach me pratikshak08@gmail.com
 
